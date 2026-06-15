@@ -1,0 +1,29 @@
+{
+  "x_account": "@awei_shen38585",
+  "search": {
+    "tab": "top",
+    "filter_replies": true,
+    "layers": {
+      "L0": {"window_hours": 48, "min_faves": 200, "noise_threshold": 0.8, "noise_action": "raise_min_faves_to_500"},
+      "L1": {"window_hours": 24, "min_faves": 30},
+      "L1b": {"window_hours": 24, "min_faves": 100},
+      "L2": {"window_hours": 48, "min_faves": 100},
+      "L3": {"window_hours": 48, "min_faves": 100},
+      "L4": {"window_hours": 72, "min_faves": 50}
+    },
+    "capture_news_sidebar": true,
+    "max_scrolls_per_layer": 10
+  },
+  "github": {
+    "check_freshness": true,
+    "known_stale_file": "references/known-stale-repos.md"
+  },
+  "output": {
+    "feishu_chat_id": "oc_f5808f24b1b712050496728dc76ef2c7",
+    "project_dir": "d:/Users/shenawei/Desktop/贝勒爷指南/code/git/demand-radar"
+  },
+  "cookie": {
+    "expiry_check_url": "https://x.com/home",
+    "renewal_required_redirect": "x.com/i/flow/login"
+  }
+}
