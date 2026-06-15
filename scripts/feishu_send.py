@@ -32,17 +32,32 @@ def send_text(text):
     return resp
 
 def send_card(title, content_md):
-    """Send an interactive card with markdown content"""
+    """Send an interactive card with markdown content, auto-splitting if too long."""
     token = get_token()
+    # Split long content into chunks (Feishu markdown element limit ~5KB)
+    chunks = []
+    if len(content_md) > 4000:
+        lines = content_md.split('\n')
+        chunk = ''
+        for line in lines:
+            if len(chunk) + len(line) > 4000 and chunk:
+                chunks.append(chunk)
+                chunk = line + '\n'
+            else:
+                chunk += line + '\n'
+        if chunk:
+            chunks.append(chunk.strip())
+    else:
+        chunks = [content_md]
+
+    elements = [{"tag": "markdown", "content": c} for c in chunks]
     card = {
         "config": {"wide_screen_mode": True},
         "header": {
             "title": {"tag": "plain_text", "content": title},
             "template": "blue"
         },
-        "elements": [
-            {"tag": "markdown", "content": content_md}
-        ]
+        "elements": elements
     }
     msg = json.dumps({
         "receive_id": CHAT_ID,
