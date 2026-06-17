@@ -1,60 +1,58 @@
-🔍 AI 热点雷达 | 2026-06-17 20:00 CST
+🔍 AI 热点雷达 | 2026-06-17 21:30 CST
 
-> **数据来源：X/Twitter 实时抓取 @awei_shen38585 | `-filter:replies` + `f=live`**
+> **数据来源：WebSearch + GitHub API（X 浏览器限流中）**
 
-## 🔥 Top 10 热力榜
+## 🔥 Top 发现
 
-| # | 关键词 | 赞 | 增速(赞/h) | 热力值 | 新鲜度 | 最终得分 | 套利信号 |
-|---|--------|-----|-----------|--------|--------|---------|---------|
-| 1 | Vercel eve | 955 | 432 | 5,798 | 🆕 1天 | 5,798 | 🔴 强 |
-| 2 | NVIDIA LocateAnything | 33 | 9 | 76 | 📈 新品 | 61 | 🟡 中 |
-| 3 | GLM-5.2 | 46 | 29 | 156 | 📈 新品 | 125 | 🟡 中 |
-| 4 | SpaceX收购Cursor | 46 | 29 | - | 📰 新闻 | - | 📰 话题 |
-| 5 | FUSION Agent Cluster | 50 | 24 | 161 | 📈 新品 | 129 | 🟡 中 |
+| # | 关键词 | GitHub | 新鲜度 | 套利信号 |
+|---|--------|--------|--------|---------|
+| 1 | **ponytail** | 29.1K星 | 🆕 5天 | 🔴 强 |
+| 2 | **shadcn improve** | 5.1K星 | 📈 7天 | 🔴 强 |
+| 3 | **omnigent** | 3.3K星 | 🆕 6天 | 🟡 中 |
+| 4 | X MCP Server | — | 📈 新品 | 📰 新闻 |
+| 5 | OpenCode超越Cursor | 160K星 | ⚠️ 旧项目 | 📰 趋势 |
 
 ### 🚀 立即行动
 
-#### 1. **Vercel eve** — Agent框架"Next.js for Agents"
-- @vercel | 955赞 | 432赞/h | 2.2h前
-- GitHub: `vercel/eve` | 🆕 创建 1 天前 | 108 stars
-- 套利方向：Vercel eve Agent框架教程站 — Next.js生态的Agent开发新范式
-- 域名：`vercel-eve.dev`、`agent-nextjs.com`、`eve-framework.com`
-- 行动方案：建Vercel eve入门教程+eve vs LangChain/CrewAI对比
-- 痛点：Agent开发框架碎片化严重，Vercel用Next.js式目录结构统一Agent开发体验
+#### 1. **ponytail** — GitHub最快增长！5天29K星
+- "让AI Agent像最懒的高级工程师一样思考 —— 最好的代码是你没写的代码"
+- GitHub: `DietrichGebert/ponytail` | 🆕 5天 | 29.1K stars
+- 套利方向：ponytail懒编码Agent教程站
+- 域名：`ponytail.dev`、`lazy-coder.ai`、`senior-dev-agent.com`
+- 行动方案：建ponytail使用教程+ponytail vs Copilot/Cursor对比
+- 痛点：AI编码Agent经常过度设计生成冗余代码，ponytail反其道而行极致精简
 
-#### 2. **NVIDIA LocateAnything** — 物体检测速度10倍提升
-- @DataChaz | 33赞 | 3.8h前
-- 套利方向：NVIDIA LocateAnything教程+物体检测速度对比
-- 域名：`locateanything.dev`、`object-detect.ai`
+#### 2. **shadcn improve** — AI编码成本优化新范式
+- "用最强模型审计代码库+为便宜模型写执行计划"
+- GitHub: `shadcn/improve` | 📈 7天 | 5.1K stars
+- 套利方向：AI编码成本优化教程
+- 域名：`shadcn-improve.dev`、`ai-code-audit.com`
+- 痛点：最强AI模型token费用昂贵，improve用强模型思考+弱模型执行降成本
 
-#### 3. **GLM-5.2** — 开源编码模型击败GPT-5.5
-- @yuki_eliot | 46赞 | 1.6h前
-- 套利方向：GLM-5.2评测+开源编码模型对比
-- 域名：`glm5.pro`、`open-code-model.com`
+#### 3. **omnigent** — 多Agent元Harness
+- "统一Claude Code/Codex/Pi，一键切换无需重写"
+- GitHub: `omnigent-ai/omnigent` | 🆕 6天 | 3.3K stars
+- 域名：`omnigent.dev`、`agent-harness.com`
 
-## ⚠️ 已排除（旧项目回锅）
+## ⚠️ 已排除
 
-| 项目 | 原因 | 星标 | 年龄 |
-|------|------|------|------|
-| LibreTranslate | 本地翻译引擎，X重新被提起 | 14.7K | 5.5年 |
-| Anthropic Wall Street Skills | 华尔街工作流，X重新被提起 | 152K | 268天 |
-| agent-skills | Addy Osmani工程技能库 | 61K | 121天 |
-| headroom | Netflix工程师Token压缩层 | 30K | 160天 |
-| HERMES Workspace | Hermes Agent Web UI | 194K | 11月 |
+| 项目 | 星标 | 年龄 |
+|------|------|------|
+| openclaw | 379K | 205天 |
+| OpenCode | 160K | 旧项目 |
 
 ---
 
 📊 扫描参数
-- 搜索层：L1 新品-AI / L3 GitHub爆发
-- 优化：`-filter:replies` + `f=live`
-- 时间范围：2026-06-15 ~ 2026-06-17
-- 原始帖子：L1(9) + L3(6) = 15条 → 精选10条
-- GitHub校验：排除 6 个旧项目
-- 浏览器状态：已登录 @awei_shen38585
+- 来源：WebSearch + GitHub API
+- 时间范围：2026-06-17
+- 精选：10条
+- 全新信号：3个
+- 排除旧项目：2个
 
 ## 🔮 关键洞察
 
-1. **Vercel eve定义Agent框架新范式**：Next.js式的目录结构开发Agent，Vercel正式进军Agent基础设施赛道
-2. **开源编码模型爆发**：GLM-5.2击败GPT-5.5 + MiMo Code挑战Claude Code，中国开源编码模型双线出击
-3. **AI编程工具大整合**：SpaceX 600亿收购Cursor传闻，行业进入整合期
-4. **旧项目回锅仍是常态**：15条信号中6个>90天，X热度≠项目新反复验证
+1. ponytail接替Agent-Reach成为GitHub新增长王，5天29K星速度惊人
+2. AI编码工具从"生成更多代码"转向"生成更少代码"——ponytail+shadcn improve代表效率优化新趋势
+3. Agent编排层崛起：omnigent(元Harness)+X MCP Server(API互通)推动Agent互联互通
+4. 开源编码Agent首次登顶：OpenCode 160K星超越Cursor/Claude Code
