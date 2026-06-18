@@ -1,33 +1,30 @@
 {
-  "date": "2026-06-17",
-  "time": "21:30 CST",
+  "date": "2026-06-18",
+  "time": "10:15 CST",
   "source": "WebSearch + GitHub API (X rate-limited)",
   "signals": [
-    {"rank":1,"keyword":"ponytail","description":"GitHub最快增长项目(+5K星/天)：让AI Agent像最懒的高级工程师一样思考，最好的代码是你没写的代码","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 5天","finalScore":29123,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"29.1K","sourceLayer":"GitHub Trending","arbitrageDirection":"ponytail懒编码Agent教程站 — 5天29K星的最快增长项目","domainSuggestions":["ponytail.dev","lazy-coder.ai","senior-dev-agent.com"],"actionPlan":"建ponytail使用教程+ponytail vs Copilot/Cursor对比，SEO 'ponytail AI coding' 'lazy senior dev agent'","painPoint":"AI编码Agent经常过度设计生成冗余代码，ponytail反其道而行极致精简"},
-    {"rank":2,"keyword":"shadcn improve","description":"shadcn新品：用最强模型审计代码库+为便宜模型写执行计划，天才成本优化方案","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":3558,"signal":"🔴 强","author":"shadcn","tweetLink":"https://github.com/shadcn/improve","hoursAgo":0,"github":"shadcn/improve","stars":"5.1K","sourceLayer":"GitHub Trending","arbitrageDirection":"shadcn improve教程站 — AI编码成本优化新范式","domainSuggestions":["shadcn-improve.dev","ai-code-audit.com","model-router.dev"],"actionPlan":"建shadcn improve使用教程+AI编码成本优化方案对比","painPoint":"最强AI模型token费用昂贵，shadcn improve用强模型思考+弱模型执行的模式大幅降低成本"},
-    {"rank":3,"keyword":"omnigent","description":"元Harness框架：统一Claude Code/Codex/Pi/自定义Agent，一键切换无需重写","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":3264,"signal":"🟡 中","author":"omnigent-ai","tweetLink":"https://github.com/omnigent-ai/omnigent","hoursAgo":0,"github":"omnigent-ai/omnigent","stars":"3.3K","sourceLayer":"GitHub Trending","arbitrageDirection":"Omnigent多Agent编排教程 — Agent Harness赛道新品","domainSuggestions":["omnigent.dev","agent-harness.com","multi-agent.tools"],"actionPlan":"建Omnigent vs ECC对比+多Agent编排入门教程","painPoint":"开发者被多个编码Agent工具绑定，Omnigent统一接口解决切换成本"},
-    {"rank":4,"keyword":"X MCP Server","description":"X官方发布MCP Server：AI Agent可原生调用150+API端点（读帖/发帖/查资料）","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 新品","finalScore":0,"signal":"📰 新闻","author":"X/Twitter","tweetLink":"https://en.theblockbeats.news/flash/339757","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","arbitrageDirection":"X MCP Server教程 — X API for AI Agent开发指南","domainSuggestions":["x-mcp.dev","agent-x-api.com"],"actionPlan":"建X MCP Server快速入门教程+X API Agent集成示例","painPoint":"AI Agent无法原生访问X数据，MCP Server打通Agent↔X社交数据通道"},
-    {"rank":5,"keyword":"OpenCode超越Cursor","description":"OpenCode(160K星)超越Cursor和Claude Code登顶AI开发工具榜首，MIT许可+75+模型","likes":0,"velocity":0,"hotScore":0,"freshness":"⚠️ 旧项目","finalScore":0,"signal":"📰 趋势","author":"OpenCode","tweetLink":"https://github.com/anomalyco/opencode","hoursAgo":0,"github":"anomalyco/opencode","stars":"160K","sourceLayer":"WebSearch","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":6,"keyword":"Grok Build CLI","description":"Grok集成进Warp终端：近百万开发者可直接在终端使用Grok AI编码","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 新品","finalScore":0,"signal":"📰 新闻","author":"xAI","tweetLink":"","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","arbitrageDirection":"Grok Build CLI教程 — Warp终端AI编码入门","domainSuggestions":["grok-build.dev","warp-grok.com"],"actionPlan":"建Grok Build CLI使用教程+终端AI编码工具对比","painPoint":"开发者需要在终端里直接使用AI，Grok Build CLI填补这个空白"},
-    {"rank":7,"keyword":"OpenCode","description":"开源编码Agent登顶行业第一，MIT许可+自托管+7.5M月活","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 旧项目","finalScore":0,"signal":"💀 排除","author":"anomalyco","tweetLink":"https://github.com/anomalyco/opencode","hoursAgo":0,"github":"anomalyco/opencode","stars":"160K","sourceLayer":"WebSearch","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":8,"keyword":"openclaw","description":"个人AI助手379K星，日增1.8K星，TypeScript全平台","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 205天","finalScore":0,"signal":"💀 排除","author":"openclaw","tweetLink":"https://github.com/openclaw/openclaw","hoursAgo":0,"github":"openclaw/openclaw","stars":"379K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":9,"keyword":"Claude Fable 5","description":"首个Mythos级AI Agent 6月9日发布→6月13日全球暂停，安全监管转折点","likes":0,"velocity":0,"hotScore":0,"freshness":"📰 新闻","finalScore":0,"signal":"📰 新闻","author":"Anthropic","tweetLink":"","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":10,"keyword":"Kimi K2.7 Code","description":"Moonshot AI开源编码Agent模型：1T总参/32B活跃/256K上下文/30%减少思考token","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 持续","finalScore":0,"signal":"📰 更新","author":"Moonshot AI","tweetLink":"","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""}
+    {"rank":1,"keyword":"ponytail","description":"GitHub增长冠军持续：6天32K星(+5.3K/天)，“让AI Agent像最懒高级工程师一样思考”","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":32021,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"32K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"ponytail教程+懒编码理念内容站 — 6天32K星最快增长项目","domainSuggestions":["ponytail.dev","lazy-coder.ai"],"actionPlan":"建ponytail快速入门+ponytail vs Copilot对比，SEO 'ponytail AI agent' 'lazy coding agent'","painPoint":"AI编码Agent过度设计问题，ponytail极致精简理念引爆开发者共鸣"},
+    {"rank":2,"keyword":"renwei-writing","description":"AI Agent人物写作技能：编辑文字但不抹去背后的人，5天770星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 5天","finalScore":770,"signal":"🟡 中","author":"orange2ai","tweetLink":"https://github.com/orange2ai/renwei-writing","hoursAgo":0,"github":"orange2ai/renwei-writing","stars":"770","sourceLayer":"GitHub Trending","arbitrageDirection":"AI人物写作Agent技能教程 — 个性化AI写作赛道","domainSuggestions":["renwei-writing.com","ai-personal-write.com"],"actionPlan":"建renwei-writing使用教程+AI个性化写作工具对比","painPoint":"AI写作千篇一律缺乏个性，renwei-writing保留人物风格的编辑方式稀缺"},
+    {"rank":3,"keyword":"pixel2motion","description":"AI Logo动画技能：将位图Logo转为流畅SVG动画，6天718星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":718,"signal":"🟡 中","author":"nolangz","tweetLink":"https://github.com/nolangz/pixel2motion","hoursAgo":0,"github":"nolangz/pixel2motion","stars":"718","sourceLayer":"GitHub Trending","arbitrageDirection":"AI Logo动画工具教程 — AI品牌动画赛道","domainSuggestions":["pixel2motion.com","logo-animator.ai"],"actionPlan":"建pixel2motion使用教程+AI动画Logo工具Top 5","painPoint":"设计师需要Logo动画但After Effects太复杂，AI一键生成需求大"},
+    {"rank":4,"keyword":"omnigent","description":"多Agent元框架持续增长，6天3.5K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":3536,"signal":"📈 持续","author":"omnigent-ai","tweetLink":"https://github.com/omnigent-ai/omnigent","hoursAgo":0,"github":"omnigent-ai/omnigent","stars":"3.5K","sourceLayer":"GitHub Trending #2","arbitrageDirection":"昨日已推荐，持续增长中","domainSuggestions":["omnigent.dev"],"actionPlan":"已建方案，关注增长趋势","painPoint":"开发者被多个Agent工具绑定"},
+    {"rank":5,"keyword":"shadcn improve","description":"AI编码成本优化方案，7天5.2K星","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":3654,"signal":"📈 持续","author":"shadcn","tweetLink":"https://github.com/shadcn/improve","hoursAgo":0,"github":"shadcn/improve","stars":"5.2K","sourceLayer":"GitHub Trending","arbitrageDirection":"昨日已推荐","domainSuggestions":["shadcn-improve.dev"],"actionPlan":"已建方案","painPoint":"强模型token费用昂贵"},
+    {"rank":6,"keyword":"OfficeCLI","description":"AI Agent版Office套件(Word/Excel/PPT)，7.3K星","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 95天","finalScore":0,"signal":"💀 排除","author":"iOfficeAI","tweetLink":"https://github.com/iOfficeAI/OfficeCLI","hoursAgo":0,"github":"iOfficeAI/OfficeCLI","stars":"7.3K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""}
   ],
   "insights": [
-    "GitHub最快增长项目换手：ponytail(5天29K星)接替Agent-Reach成为新增长王，'懒编码'理念引爆开发者社区",
-    "AI编码工具成本优化成新赛道：shadcn improve(强模型思考+弱模型执行)和ponytail(不写就是最好的代码)殊途同归",
-    "Agent编排层崛起：omnigent(元Harness)和X MCP Server(API互通)代表Agent基础设施从单点工具走向互联互通",
-    "开源编码Agent首次登顶：OpenCode 160K星+7.5M月活超越Cursor/Claude Code，社区驱动模式确立优势"
+    "ponytail连续第二天登顶GitHub增长榜首，6天32K星验证了开发者对精简编码AI的强烈需求",
+    "AI写作和AI设计Agent技能持续涌现：renwei-writing(人物写作)+pixel2motion(Logo动画)代表Agent技能生态从编码向创意领域扩展",
+    "昨日信号的ponytail/omnigent/shadcn improve仍在增长，热度窗口持续开放",
+    "OfficeCLI(7.3K星但95天旧项目)再次证明GitHub Trending列表中旧项目回锅现象普遍"
   ],
   "scanParams": {
-    "source": "WebSearch + GitHub API (X browser rate-limited)",
-    "since": "2026-06-16",
-    "until": "2026-06-17 21:30 CST",
-    "raw": 10,
-    "top": 10,
-    "freshNew": 3,
-    "staleExcluded": 2,
-    "browserStatus": "X rate-limited, used WebSearch fallback"
+    "source": "WebSearch + GitHub API",
+    "since": "2026-06-17",
+    "until": "2026-06-18 10:15 CST",
+    "raw": 7,
+    "top": 6,
+    "freshNew": 2,
+    "staleExcluded": 1,
+    "continuingFromYesterday": 3,
+    "browserStatus": "X rate-limited"
   }
 }
