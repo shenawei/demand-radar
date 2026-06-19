@@ -1,28 +1,16 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "time": "09:00 CST",
   "source": "WebSearch + GitHub API",
   "signals": [
-    {"rank":1,"keyword":"Vercel eve","description":"Vercel Agent框架3天1.5K星，'The Framework for Building Agents'，Next.js式目录结构","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":1462,"signal":"🔴 强","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"1.5K","sourceLayer":"GitHub Trending","arbitrageDirection":"Vercel eve Agent框架教程站 — 3天前我们在X上第一个发现它","domainSuggestions":["vercel-eve.dev","agent-nextjs.com","eve-framework.com"],"actionPlan":"急！3天前X上955赞我们已预警，现在GitHub持续增长验证信号。建eve入门教程+eve vs LangChain对比","painPoint":"Agent框架碎片化，Vercel用Next.js范式的目录结构统一开发体验"},
-    {"rank":2,"keyword":"ponytail","description":"7天37.9K星，AI极简编码Agent，连续4天GitHub增长榜首","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":26542,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"37.9K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"ponytail教程站 — 连续4天登顶，7天窗口将关闭","domainSuggestions":["ponytail.dev","lazy-coder.ai"],"actionPlan":"急！7天窗口将关闭，尽快建ponytail使用教程+懒编码哲学对比","painPoint":"持续4天登顶验证了开发者对精简AI编码的强烈真实需求"},
-    {"rank":3,"keyword":"devspace","description":"把ChatGPT变成Codex，4天1K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 4天","finalScore":1019,"signal":"🟡 中","author":"Waishnav","tweetLink":"https://github.com/Waishnav/devspace","hoursAgo":0,"github":"Waishnav/devspace","stars":"1K","sourceLayer":"GitHub Trending","arbitrageDirection":"devspace工具教程 — ChatGPT→Codex转换工具","domainSuggestions":["devspace.tools","chatgpt-to-codex.com"],"actionPlan":"建devspace使用教程+ChatGPT编码增强工具对比","painPoint":"ChatGPT用户想要Codex级编码体验但不想切换工具"},
-    {"rank":4,"keyword":"junction","description":"VS Code侧边栏本地AI编码Agent，2天510星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 2天","finalScore":510,"signal":"🟡 中","author":"Plaer1","tweetLink":"https://github.com/Plaer1/junction","hoursAgo":0,"github":"Plaer1/junction","stars":"510","sourceLayer":"GitHub Trending","arbitrageDirection":"junction VS Code Agent插件教程","domainSuggestions":["junction-ai.dev","vscode-agent.com"],"actionPlan":"建junction安装使用教程+VS Code AI Agent插件对比","painPoint":"VS Code用户需要侧边栏Agent而不是终端Agent"},
-    {"rank":5,"keyword":"fable-mode / fablize","description":"Fable模式Agent技能爆火：2个Claude Code插件让Opus像Fable一样工作(6天506星+5天489星)","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 5-6天","finalScore":995,"signal":"🟡 中","author":"mrtooher/fivetaku","tweetLink":"https://github.com/mrtooher/fable-mode","hoursAgo":0,"github":"mrtooher/fable-mode","stars":"506+489","sourceLayer":"GitHub Trending","arbitrageDirection":"Fable模式Agent技能教程 — Claude Code增强赛道","domainSuggestions":["fable-mode.dev","claude-agent.skills"],"actionPlan":"建fable-mode/fablize使用教程+Claude Code增强插件榜单","painPoint":"Claude Opus用户想要Fable级的Agent能力但不想等官方升级"}
+    {"rank":1,"keyword":"ponytail","description":"AI极简编码Agent第5天登顶，8天39.4K星(×0.7)","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 8天","finalScore":27608,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"39.4K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"持续关注，8天窗口关闭中","domainSuggestions":["ponytail.dev"],"actionPlan":"已建方案","painPoint":"AI编码过度设计"},
+    {"rank":2,"keyword":"Vercel eve","description":"Agent框架持续增长3天1.6K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":1576,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"1.6K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长中","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案","painPoint":"Agent框架碎片化"},
+    {"rank":3,"keyword":"codexpro","description":"ChatGPT开发者模式→本地编码Agent，3天427星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":427,"signal":"🟡 中","author":"rebel0789","tweetLink":"https://github.com/rebel0789/codexpro","hoursAgo":0,"github":"rebel0789/codexpro","stars":"427","sourceLayer":"GitHub Trending","arbitrageDirection":"codexpro教程 - ChatGPT→本地Agent转换","domainSuggestions":["codexpro.dev","chatgpt-agent.com"],"actionPlan":"建codexpro使用教程","painPoint":"ChatGPT用户想要本地Agent能力"}
   ],
   "insights": [
-    "Vercel eve我们3天前在X上第一个发现(955赞)，现在GitHub验证增长，早发现优势明显",
-    "ponytail连续4天登顶GitHub增长榜首，7天37.9K星，但今天达到7天窗口边界(×0.7)",
-    "Fable模式Agent技能赛道同时出现2个项目(fable-mode+fablize)，社区自驱动增强Claude Code",
-    "VS Code侧边栏Agent(junction)和ChatGPT→Codex(devspace)代表Agent界面从终端向IDE扩展"
+    "安静日：无全新爆款信号，ponytail继续霸榜(39.4K/8天)",
+    "Vercel eve稳步增长验证我们3天前X首发预警的精准度",
+    "GitHub Trending本周仍以Agent工具链为主旋律但新项目密度下降"
   ],
-  "scanParams": {
-    "source": "WebSearch + GitHub API",
-    "since": "2026-06-18",
-    "until": "2026-06-19 09:00 CST",
-    "raw": 10,
-    "top": 5,
-    "freshNew": 3,
-    "continuing": 1,
-    "browserStatus": "skipped (WebSearch reliable)"
-  }
+  "scanParams": {"source":"WebSearch+GitHub","raw":8,"top":3,"freshNew":1}
 }
