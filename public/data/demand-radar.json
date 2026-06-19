@@ -1,31 +1,28 @@
 {
-  "date": "2026-06-18",
-  "time": "21:30 CST",
+  "date": "2026-06-19",
+  "time": "09:00 CST",
   "source": "WebSearch + GitHub API",
   "signals": [
-    {"rank":1,"keyword":"ponytail","description":"连续3天登顶GitHub增长榜首，6天34.6K星(+3K/天)，“让AI Agent像最懒高级工程师一样思考”","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":34627,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"34.6K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"ponytail Agent懒编码教程站 — 3天连续登顶的顶级信号","domainSuggestions":["ponytail.dev","lazy-coder.ai"],"actionPlan":"急！3天连续登顶说明需求真实且持续。建ponytail快速入门+哲学理念对比页","painPoint":"AI编码Agent过度设计问题普遍存在，ponytail极致精简理念持续引爆"},
-    {"rank":2,"keyword":"LOGOS (阿里通义)","description":"阿里通义发布全球首个统一科学大模型，1B参数超越微软NatureLM 8×7B(仅1/56参数量)","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 新品","finalScore":0,"signal":"📰 新闻","author":"Tongyi Lab","tweetLink":"","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","arbitrageDirection":"LOGOS科学大模型科普+评测内容","domainSuggestions":["logos-model.ai","unified-science.ai"],"actionPlan":"建LOGOS解读+AI4S科学智能趋势分析","painPoint":"科学大模型领域缺乏统一框架，LOGOS跨生物/化学/材料统一建模"},
-    {"rank":3,"keyword":"Agent-Reach回归","description":"Agent-Reach重回增长榜(+1.2K/天)，33.6K星，AI Agent互联网搜索工具","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 12天","finalScore":0,"signal":"📈 回归","author":"Panniantong","tweetLink":"https://github.com/Panniantong/Agent-Reach","hoursAgo":0,"github":"Panniantong/Agent-Reach","stars":"33.6K","sourceLayer":"GitHub Trending","arbitrageDirection":"Agent-Reach热度回升，关注竞品生态变化","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":4,"keyword":"omnigent","description":"多Agent元框架7天3.7K星，持续增长","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":3706,"signal":"📈 持续","author":"omnigent-ai","tweetLink":"https://github.com/omnigent-ai/omnigent","hoursAgo":0,"github":"omnigent-ai/omnigent","stars":"3.7K","sourceLayer":"GitHub Trending #3","arbitrageDirection":"持续关注","domainSuggestions":[],"actionPlan":"已建方案","painPoint":""},
-    {"rank":5,"keyword":"shadcn improve","description":"AI编码成本优化8天5.4K星","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 8天","finalScore":3777,"signal":"📈 持续","author":"shadcn","tweetLink":"https://github.com/shadcn/improve","hoursAgo":0,"github":"shadcn/improve","stars":"5.4K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":6,"keyword":"OpenMontage","description":"全球首个开源Agent视频制作系统(12管道/52工具/500+技能)，5.8K星","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 81天","finalScore":0,"signal":"💀 排除","author":"calesthio","tweetLink":"https://github.com/calesthio/OpenMontage","hoursAgo":0,"github":"calesthio/OpenMontage","stars":"5.8K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":7,"keyword":"mattpocock skills","description":"TypeScript讲师的真实Agent技能集，134.8K星","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 135天","finalScore":0,"signal":"💀 排除","author":"mattpocock","tweetLink":"https://github.com/mattpocock/skills","hoursAgo":0,"github":"mattpocock/skills","stars":"134.8K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""},
-    {"rank":8,"keyword":"superpowers","description":"Agent技能框架+软件开发方法论，231.9K星","likes":0,"velocity":0,"hotScore":0,"freshness":"💀 252天","finalScore":0,"signal":"💀 排除","author":"obra","tweetLink":"https://github.com/obra/superpowers","hoursAgo":0,"github":"obra/superpowers","stars":"231.9K","sourceLayer":"GitHub Trending","arbitrageDirection":"","domainSuggestions":[],"actionPlan":"","painPoint":""}
+    {"rank":1,"keyword":"Vercel eve","description":"Vercel Agent框架3天1.5K星，'The Framework for Building Agents'，Next.js式目录结构","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":1462,"signal":"🔴 强","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"1.5K","sourceLayer":"GitHub Trending","arbitrageDirection":"Vercel eve Agent框架教程站 — 3天前我们在X上第一个发现它","domainSuggestions":["vercel-eve.dev","agent-nextjs.com","eve-framework.com"],"actionPlan":"急！3天前X上955赞我们已预警，现在GitHub持续增长验证信号。建eve入门教程+eve vs LangChain对比","painPoint":"Agent框架碎片化，Vercel用Next.js范式的目录结构统一开发体验"},
+    {"rank":2,"keyword":"ponytail","description":"7天37.9K星，AI极简编码Agent，连续4天GitHub增长榜首","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":26542,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"37.9K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"ponytail教程站 — 连续4天登顶，7天窗口将关闭","domainSuggestions":["ponytail.dev","lazy-coder.ai"],"actionPlan":"急！7天窗口将关闭，尽快建ponytail使用教程+懒编码哲学对比","painPoint":"持续4天登顶验证了开发者对精简AI编码的强烈真实需求"},
+    {"rank":3,"keyword":"devspace","description":"把ChatGPT变成Codex，4天1K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 4天","finalScore":1019,"signal":"🟡 中","author":"Waishnav","tweetLink":"https://github.com/Waishnav/devspace","hoursAgo":0,"github":"Waishnav/devspace","stars":"1K","sourceLayer":"GitHub Trending","arbitrageDirection":"devspace工具教程 — ChatGPT→Codex转换工具","domainSuggestions":["devspace.tools","chatgpt-to-codex.com"],"actionPlan":"建devspace使用教程+ChatGPT编码增强工具对比","painPoint":"ChatGPT用户想要Codex级编码体验但不想切换工具"},
+    {"rank":4,"keyword":"junction","description":"VS Code侧边栏本地AI编码Agent，2天510星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 2天","finalScore":510,"signal":"🟡 中","author":"Plaer1","tweetLink":"https://github.com/Plaer1/junction","hoursAgo":0,"github":"Plaer1/junction","stars":"510","sourceLayer":"GitHub Trending","arbitrageDirection":"junction VS Code Agent插件教程","domainSuggestions":["junction-ai.dev","vscode-agent.com"],"actionPlan":"建junction安装使用教程+VS Code AI Agent插件对比","painPoint":"VS Code用户需要侧边栏Agent而不是终端Agent"},
+    {"rank":5,"keyword":"fable-mode / fablize","description":"Fable模式Agent技能爆火：2个Claude Code插件让Opus像Fable一样工作(6天506星+5天489星)","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 5-6天","finalScore":995,"signal":"🟡 中","author":"mrtooher/fivetaku","tweetLink":"https://github.com/mrtooher/fable-mode","hoursAgo":0,"github":"mrtooher/fable-mode","stars":"506+489","sourceLayer":"GitHub Trending","arbitrageDirection":"Fable模式Agent技能教程 — Claude Code增强赛道","domainSuggestions":["fable-mode.dev","claude-agent.skills"],"actionPlan":"建fable-mode/fablize使用教程+Claude Code增强插件榜单","painPoint":"Claude Opus用户想要Fable级的Agent能力但不想等官方升级"}
   ],
   "insights": [
-    "ponytail连续3天登顶GitHub增长榜首(34.6K/6天)，增长速度史无前例，是最强套利信号",
-    "LOGOS(阿里通义)代表AI4S科学智能新范式：1B参数超越56倍大的微软NatureLM",
-    "GitHub Trending榜单90%是旧项目回锅：OpenMontage(81天)/mattpocock(135天)/superpowers(252天)均为老项目",
-    "ponytail+shadcn improve代表的'AI编码极简主义'正在成为主流叙事"
+    "Vercel eve我们3天前在X上第一个发现(955赞)，现在GitHub验证增长，早发现优势明显",
+    "ponytail连续4天登顶GitHub增长榜首，7天37.9K星，但今天达到7天窗口边界(×0.7)",
+    "Fable模式Agent技能赛道同时出现2个项目(fable-mode+fablize)，社区自驱动增强Claude Code",
+    "VS Code侧边栏Agent(junction)和ChatGPT→Codex(devspace)代表Agent界面从终端向IDE扩展"
   ],
   "scanParams": {
     "source": "WebSearch + GitHub API",
-    "since": "2026-06-17",
-    "until": "2026-06-18 21:30 CST",
+    "since": "2026-06-18",
+    "until": "2026-06-19 09:00 CST",
     "raw": 10,
     "top": 5,
-    "freshNew": 0,
-    "staleExcluded": 3,
-    "browserStatus": "X rate-limited, ponymail continues dominating"
+    "freshNew": 3,
+    "continuing": 1,
+    "browserStatus": "skipped (WebSearch reliable)"
   }
 }
