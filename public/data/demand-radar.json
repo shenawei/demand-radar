@@ -1,16 +1,13 @@
 {
   "date": "2026-06-20",
-  "time": "09:00 CST",
+  "time": "21:00 CST",
   "source": "WebSearch + GitHub API",
   "signals": [
-    {"rank":1,"keyword":"ponytail","description":"AI极简编码Agent第5天登顶，8天39.4K星(×0.7)","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 8天","finalScore":27608,"signal":"🔴 强","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"39.4K","sourceLayer":"GitHub Trending #1","arbitrageDirection":"持续关注，8天窗口关闭中","domainSuggestions":["ponytail.dev"],"actionPlan":"已建方案","painPoint":"AI编码过度设计"},
-    {"rank":2,"keyword":"Vercel eve","description":"Agent框架持续增长3天1.6K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":1576,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"1.6K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长中","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案","painPoint":"Agent框架碎片化"},
-    {"rank":3,"keyword":"codexpro","description":"ChatGPT开发者模式→本地编码Agent，3天427星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 3天","finalScore":427,"signal":"🟡 中","author":"rebel0789","tweetLink":"https://github.com/rebel0789/codexpro","hoursAgo":0,"github":"rebel0789/codexpro","stars":"427","sourceLayer":"GitHub Trending","arbitrageDirection":"codexpro教程 - ChatGPT→本地Agent转换","domainSuggestions":["codexpro.dev","chatgpt-agent.com"],"actionPlan":"建codexpro使用教程","painPoint":"ChatGPT用户想要本地Agent能力"}
+    {"rank":1,"keyword":"ponytail","description":"AI极简编码Agent连续霸榜，8天40.4K星","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 8天","finalScore":28294,"signal":"📈 持续","author":"DietrichGebert","tweetLink":"https://github.com/DietrichGebert/ponytail","hoursAgo":0,"github":"DietrichGebert/ponytail","stars":"40.4K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续关注","domainSuggestions":["ponytail.dev"],"actionPlan":"已建方案","painPoint":"AI编码过度设计"},
+    {"rank":2,"keyword":"Vercel eve","description":"Agent框架持续增长4天1.7K星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 4天","finalScore":1678,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"1.7K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案","painPoint":"Agent框架碎片化"},
+    {"rank":3,"keyword":"Nex-N2","description":"Nex-AGI开源Agent模型，统一Agentic Thinking框架(推理+工具+环境执行)","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 新品","finalScore":0,"signal":"📰 新闻","author":"nex-agi","tweetLink":"https://github.com/nex-agi/Nex-N2","hoursAgo":0,"github":"nex-agi/Nex-N2","stars":"?","sourceLayer":"WebSearch","domainSuggestions":[],"actionPlan":"","painPoint":""},
+    {"rank":4,"keyword":"AMD Lemonade MCP","description":"AMD本地AI服务器集成MCP协议，支持Claude Desktop/Cursor/GitHub Copilot","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 新品","finalScore":0,"signal":"📰 新闻","author":"AMD","tweetLink":"","hoursAgo":0,"github":"","stars":"","sourceLayer":"WebSearch","domainSuggestions":[],"actionPlan":"","painPoint":""}
   ],
-  "insights": [
-    "安静日：无全新爆款信号，ponytail继续霸榜(39.4K/8天)",
-    "Vercel eve稳步增长验证我们3天前X首发预警的精准度",
-    "GitHub Trending本周仍以Agent工具链为主旋律但新项目密度下降"
-  ],
-  "scanParams": {"source":"WebSearch+GitHub","raw":8,"top":3,"freshNew":1}
+  "insights": ["连续两天安静，无全新爆款。ponytail(40.4K)+eve(1.7K)持续增长","AMD Lemonade加入MCP代表硬件厂商进场Agent协议","Agent记忆系统(mempalace等)成为新的增长子赛道"],
+  "scanParams": {"source":"WebSearch+GitHub","raw":6,"top":4}
 }
