@@ -1,12 +1,11 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "time": "09:00 CST",
-  "source": "WebSearch + GitHub API",
+  "source": "WebSearch",
   "signals": [
-    {"rank":1,"keyword":"agent-apprenticeship","description":"AI Agent学徒制生态：Agent从真实工作中迭代学习，2天575星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 2天","finalScore":575,"signal":"🟡 中","author":"Forsy-AI","tweetLink":"https://github.com/Forsy-AI/agent-apprenticeship","hoursAgo":0,"github":"Forsy-AI/agent-apprenticeship","stars":"575","sourceLayer":"GitHub Trending","arbitrageDirection":"Agent学徒制学习框架教程 — Agent自进化赛道","domainSuggestions":["agent-apprentice.dev","self-evolve.ai"],"actionPlan":"建agent-apprenticeship快速入门+Agent自学习框架对比","painPoint":"AI Agent缺乏从真实工作中学习迭代的能力，apprenticeship模式填补这个gap"},
-    {"rank":2,"keyword":"compass-skills (司南)","description":"个性化AI Agent任务总控Skills系统，6天400星","likes":0,"velocity":0,"hotScore":0,"freshness":"🆕 6天","finalScore":400,"signal":"🟡 中","author":"dongshuyan","tweetLink":"https://github.com/dongshuyan/compass-skills","hoursAgo":0,"github":"dongshuyan/compass-skills","stars":"400","sourceLayer":"GitHub Trending","arbitrageDirection":"AI Agent个人化Skills系统教程","domainSuggestions":["compass-skills.com","agent-alignment.com"],"actionPlan":"建compass-skills使用教程+Agent个人化Skills方案对比","painPoint":"通用AI Agent缺乏个人化对齐，compass-skills提供个性化任务总控"},
-    {"rank":3,"keyword":"Vercel eve","description":"Agent框架持续增长，5天1,953星","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 5天","finalScore":1953,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"2K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长中","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案","painPoint":"Agent框架碎片化"}
+    {"rank":1,"keyword":"Vercel eve","description":"Agent框架6天2K星(+369/天)，'Framework for Building Agents'持续增长","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 6天","finalScore":2000,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"2K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案"},
+    {"rank":2,"keyword":"agent-apprenticeship","description":"Agent学徒制学习生态3天增长中","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 3天","finalScore":0,"signal":"📈 持续","author":"Forsy-AI","tweetLink":"https://github.com/Forsy-AI/agent-apprenticeship","hoursAgo":0,"github":"Forsy-AI/agent-apprenticeship","stars":"575+","sourceLayer":"GitHub Trending","arbitrageDirection":"持续关注"},
+    {"rank":3,"keyword":"openclaude","description":"'Runs anywhere, uses anything'通用AI CLI，+357星/天","likes":0,"velocity":0,"hotScore":0,"freshness":"? 待验证","finalScore":0,"signal":"❓ 新","author":"Gitlawb","tweetLink":"https://github.com/Gitlawb/openclaude","hoursAgo":0,"github":"Gitlawb/openclaude","stars":"?","sourceLayer":"GitHub Trending"}
   ],
-  "insights": ["agent-apprenticeship代表Agent学习范式新方向：从手工编写Skills到Agent从真实工作中自主学习","compass-skills(司南)代表中文区Agent Skills生态崛起","vercel/eve继续稳定增长体现Agent框架赛道持续热度"],
-  "scanParams": {"source":"GitHub API","raw":8,"top":3}
+  "scanParams": {"source":"WebSearch","top":3,"trend":"Agent框架持续主导，无全新爆款"}
 }
