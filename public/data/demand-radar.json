@@ -1,11 +1,14 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "time": "09:00 CST",
   "source": "WebSearch",
   "signals": [
-    {"rank":1,"keyword":"Vercel eve","description":"Agent框架6天2K星(+369/天)，'Framework for Building Agents'持续增长","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 6天","finalScore":2000,"signal":"📈 增长","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"2K","sourceLayer":"GitHub Trending","arbitrageDirection":"持续增长","domainSuggestions":["vercel-eve.dev"],"actionPlan":"已建方案"},
-    {"rank":2,"keyword":"agent-apprenticeship","description":"Agent学徒制学习生态3天增长中","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 3天","finalScore":0,"signal":"📈 持续","author":"Forsy-AI","tweetLink":"https://github.com/Forsy-AI/agent-apprenticeship","hoursAgo":0,"github":"Forsy-AI/agent-apprenticeship","stars":"575+","sourceLayer":"GitHub Trending","arbitrageDirection":"持续关注"},
-    {"rank":3,"keyword":"openclaude","description":"'Runs anywhere, uses anything'通用AI CLI，+357星/天","likes":0,"velocity":0,"hotScore":0,"freshness":"? 待验证","finalScore":0,"signal":"❓ 新","author":"Gitlawb","tweetLink":"https://github.com/Gitlawb/openclaude","hoursAgo":0,"github":"Gitlawb/openclaude","stars":"?","sourceLayer":"GitHub Trending"}
+    {"rank":1,"keyword":"daily-stock-analysis","description":"LLM多市场股票分析Agent系统，45K星(+568/天)，量化交易×AI Agent新爆款","likes":0,"velocity":0,"hotScore":0,"freshness":"❓ 待验证","finalScore":0,"signal":"🔴 强","author":"?","tweetLink":"","hoursAgo":0,"github":"","stars":"45K","sourceLayer":"GitHub Trending","arbitrageDirection":"AI量化交易Agent教程站 — 45K星的金融×AI交叉赛道","domainSuggestions":["ai-stock.analysis","quant-agent.ai"],"actionPlan":"待验证新鲜度后建方案，若<7天则紧急建AI量化交易Agent教程","painPoint":"散户缺乏专业量化工具，LLM驱动的股票分析Agent降低门槛"},
+    {"rank":2,"keyword":"system-prompts-leaks","description":"安全研究项目提取Claude/ChatGPT/Gemini系统提示词，44.7K星(+282/天)","likes":0,"velocity":0,"hotScore":0,"freshness":"❓ 待验证","finalScore":0,"signal":"🔴 强","author":"?","tweetLink":"","hoursAgo":0,"github":"","stars":"44.7K","sourceLayer":"GitHub Trending","arbitrageDirection":"AI安全研究内容站 — LLM系统提示词泄露引发的讨论","domainSuggestions":["prompt-leaks.com","ai-security.watch"],"actionPlan":"建LLM系统提示词安全性分析+AI安全科普站","painPoint":"公众对AI模型如何被'prompt engineering'控制缺乏了解，安全研究引爆关注"},
+    {"rank":3,"keyword":"Anthropic Cybersecurity Skills","description":"754个结构化网络安全Agent技能，17.9K星(+361/天)","likes":0,"velocity":0,"hotScore":0,"freshness":"❓ 待验证","finalScore":0,"signal":"🟡 中","author":"?","tweetLink":"","hoursAgo":0,"github":"","stars":"17.9K","sourceLayer":"GitHub Trending","arbitrageDirection":"AI安全Agent技能库教程","domainSuggestions":["agent-security.skills","cyber-agent.tools"],"actionPlan":"待验证"},
+    {"rank":4,"keyword":"Vercel eve","description":"Agent框架7天2K星持续增长，但窗口接近关闭(×0.7)","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 7天","finalScore":1400,"signal":"📉 窗口将关","author":"vercel","tweetLink":"https://github.com/vercel/eve","hoursAgo":0,"github":"vercel/eve","stars":"2K","sourceLayer":"GitHub Trending"},
+    {"rank":5,"keyword":"agent-apprenticeship","description":"Agent学徒制学习生态持续增长","likes":0,"velocity":0,"hotScore":0,"freshness":"📈 4天","finalScore":0,"signal":"📈 持续","author":"Forsy-AI","tweetLink":"https://github.com/Forsy-AI/agent-apprenticeship","hoursAgo":0,"github":"Forsy-AI/agent-apprenticeship","stars":"523+","sourceLayer":"GitHub Trending"}
   ],
-  "scanParams": {"source":"WebSearch","top":3,"trend":"Agent框架持续主导，无全新爆款"}
+  "insights": ["LLM+金融量化交易意外爆火：daily-stock-analysis 45K星代表AI从编码向金融领域渗透","AI安全研究引爆关注：system-prompts-leaks 44.7K星揭示公众对AI安全透明度的强烈需求","Agent Skills标准化加速：Anthropic 754个安全技能+NVIDIA SkillSpector代表企业级Agent技能市场形成"],
+  "scanParams": {"source":"WebSearch","top":5,"trend":"金融AI+安全AI双爆款","note":"3个信号待验证GitHub新鲜度(auto-mode限制)"}
 }
